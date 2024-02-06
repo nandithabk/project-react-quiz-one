@@ -1,0 +1,25 @@
+.quiz{
+    color: white;
+    text-align: center;
+    background-color: rgb(135, 213, 255);
+  }
+  
+  .play{
+    display: flex;
+    color: white;
+    border-radius: 2rem;
+    font-size: 16px;
+    padding: 10px 70px;
+    background-color: rgb(0, 173, 107);
+    text-align: center;
+  }
+  
+  .home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25%;
+    margin-bottom: 25%;
+  } 
+  
